@@ -1,0 +1,18 @@
+.money {
+    margin-top: 50px;
+
+    .contaiiner {
+        text-align: center;
+        align-items: center;
+    }
+
+    &__background {
+        background-image: url(../../img/money_background.png);
+        max-width: 340px;
+        width: 100%;
+    }
+
+    &__info {
+        text-align: center;
+    }
+}
